@@ -14,7 +14,7 @@
 2. **Extract** to any folder on your computer
 3. **Run** the executable file
 
-## ✨ Premium Features
+## ✨ Premium Features:
 
 - **Undetectable** – Advanced anti-detection system
 - **Aimbot** – Precision targeting with adjustable settings
